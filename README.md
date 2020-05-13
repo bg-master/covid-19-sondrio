@@ -3,6 +3,8 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) 
 
+### ARCHIVIATO - Dal 25/04/2020 ATS Montagna non ha più comunicato i dati sulla diffusione dell'infezione da Coronavirus (COVID-19) nei comuni della provincia di Sondrio.
+
 Questo repository raccoglie i dati comunicati quotidianamente dalla **Agenzia
 di Tutela della Salute della Montagna** sulla diffusione dell'infezione da
 Coronavirus (COVID-19) nei comuni della provincia di Sondrio.<br>
